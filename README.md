@@ -10,7 +10,9 @@
   The following tasks are designed to be completed by the participants and discussed on Discord.
 - **Creation Date:**<br>
   October 1, 2022: Initial development<br>
-  September 27, 2025: Presented to [QSilver-31 Workshop](https://qworld.net/qsilver31/)
+  September 20, 2025: Modified for audience of intermediate level of quantum computing proficiency.<br>
+  September 27, 2025: Adopted for session "Building QML Models with Variational Quantum Algorithms", part of [QSilver-31 Workshop](https://qworld.net/qsilver31/), QBangladesh / QWorld.<br>
+  October 10, 2025: Adopted for session "An introduction to Quantum Machine Learning in Qiskit", part of [Qiskit Fall Fest UAM 2025](https://research.ibm.com/events/qiskit-fall-fest-2025), [Adam Mickiewicz University](https://amu.edu.pl/en), Poznań, Poland.
 - **How to cite this work:**<br>
   If you are a researcher and wanted to use these resources, please cite my work as follows.<br>
 
@@ -19,11 +21,11 @@
   QSilver-31 Workshop by QBangladesh / QWorld, September 20-21 and 27-28, 2025,<br>
   [https://github.com/ironfrown/qml_bcd_lab](https://github.com/ironfrown/qml_bcd_lab).
 
-  <!--_**This GitHub:**_<br>
+  _**This GitHub:**_<br>
   Jacob L. Cybulski (ironfrown), "Quantum Machine Learning A-B-C in Qiskit",<br>
   GitHub, 2025,
   [https://github.com/ironfrown/qml_abc_lab/](https://github.com/ironfrown/qml_abc_lab/),
-  Accessed Day-Month-Year.-->
+  Accessed Day-Month-Year.
 
 ## Folders
 This site is structured as follows:
