@@ -22,7 +22,7 @@
   [https://github.com/ironfrown/qml_bcd_lab](https://github.com/ironfrown/qml_bcd_lab).
 
   _**This GitHub:**_<br>
-  Jacob L. Cybulski (ironfrown), "Quantum Machine Learning A-B-C in Qiskit",<br>
+  Jacob L. Cybulski (ironfrown), "Quantum Machine Learning B-C-D in Qiskit",<br>
   GitHub, 2025,
   [https://github.com/ironfrown/qml_abc_lab/](https://github.com/ironfrown/qml_abc_lab/),
   Accessed Day-Month-Year.
