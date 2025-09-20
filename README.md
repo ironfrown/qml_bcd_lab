@@ -17,14 +17,16 @@
   If you are a researcher and wanted to use these resources, please cite my work as follows.<br>
 
   _**The presentation (slides and video when available):**_<br>
-  Jacob L. Cybulski, "Building QML Models with Variational Quantum Algorithms",<br>
-  QSilver-31 Workshop by QBangladesh / QWorld, September 20-21 and 27-28, 2025,<br>
-  [https://github.com/ironfrown/qml_bcd_lab](https://github.com/ironfrown/qml_bcd_lab).
+  Jacob L. Cybulski, "Quantum Machine Learning B-C-D in Qiskit",<br>
+  Presented to QSilver-31 Workshop by QBangladesh / QWorld, September 20-21 and 27-28, 2025,<br>
+  Presented to Qiskit Fall Fest UAM 2025, Adam Mickiewicz University in Poznań, Poland, 10 Oct 2025,<br>
+  [https://jacobcybulski.com/](https://jacobcybulski.com/seminars/slides/2025_QML_BDC_v2_5_QBangladesh.pdf),
+  Accessed Day-Month-Year.
 
   _**This GitHub:**_<br>
   Jacob L. Cybulski (ironfrown), "Quantum Machine Learning B-C-D in Qiskit",<br>
   GitHub, 2025,
-  [https://github.com/ironfrown/qml_abc_lab/](https://github.com/ironfrown/qml_abc_lab/),
+  [https://github.com/ironfrown/qml_bcd_lab/](https://github.com/ironfrown/qml_bcd_lab/),
   Accessed Day-Month-Year.
 
 ## Folders
@@ -49,10 +51,20 @@ Note however that this GitHub is still in development and the notebooks may be a
         <th style="text-align: left;">Model</th>
         <th style="text-align: left;">Description</th>
     </tr>
-    <tr><td style="vertical-align: top;"><strong><em>qml_bcd_01_mglass</em></strong></td>
+    <tr><td style="vertical-align: top;"><strong><em>qml_bcd_01_2sins...</em></strong></td>
+        <td style="vertical-align: top;">two_sins</td>
+        <td style="vertical-align: top;">qnn_standard_model</td>
+        <td style="vertical-align: top;">The exercise to create a Qiskit forecasting model for trigonometric data.</td>
+    </tr>
+    <tr><td style="vertical-align: top;"><strong><em>qml_bcd_02_mglass_simpl...</em></strong></td>
         <td style="vertical-align: top;">mackie_glass</td>
-        <td style="vertical-align: top;">qnn_tsa_model</td>
-        <td style="vertical-align: top;">The exercise to create a Qiskit time series analysis model for Mackie-Glass data.</td>
+        <td style="vertical-align: top;">qnn_standard_model<br>qnn_custom_model</td>
+        <td style="vertical-align: top;">The exercise to create a Qiskit forecasting model for a simple Mackie-Glass data.</td>
+    </tr>
+    <tr><td style="vertical-align: top;"><strong><em>qml_bcd_02_mglass_chaos...</em></strong></td>
+        <td style="vertical-align: top;">mackie_glass</td>
+        <td style="vertical-align: top;">qnn_standard_model<br>qnn_custom_model</td>
+        <td style="vertical-align: top;">The exercise to create a Qiskit forecasting model for a chaotic Mackie-Glass data.</td>
     </tr>
 </table><div style="clear: both;"></div>
             
