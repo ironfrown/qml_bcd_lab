@@ -4,7 +4,7 @@
 - **Aims:** This is a workshop session introducing quantum machine learning for those already familiar with Quantum Computing algorithms and Qiskit.
 - **Prerequisites:** This GitHub assumes good knowledge of quantum computing and machines learning, as well as previous experience with Python and Qiskit. 
 - **Description:**
-  > This QML BCD lab explores the process of developing a simple quantum machine learning model in Qiskit.<br>
+  > This QML BCD lab explores development of a simple quantum machine learning model in Qiskit.<br>
   > The lab includes a practical session that covers the QML concepts, models, and techniques.<br>
   > The initial lab tasks will be demonstrated by the presenter.<br>
   > The following tasks are designed to be completed by the participants and discussed on Discord.
