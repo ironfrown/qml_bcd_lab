@@ -4,30 +4,28 @@
 - **Aims:** This is a workshop session introducing quantum machine learning for those already familiar with Quantum Computing algorithms and Qiskit.
 - **Prerequisites:** This GitHub assumes good knowledge of quantum computing and machines learning, as well as previous experience with Python and Qiskit. 
 - **Description:**
-  This QML BCD lab explores the process of developing a simple quantum machine learning model in Qiskit.<br>
-  The lab includes a practical session that covers the QML concepts, models, and techniques.<br>
-  The initial lab tasks will be demonstrated by the presenter.<br>
-  The following tasks are designed to be completed by the participants and discussed on Discord.
-- **Creation Date:**<br>
-  October 1, 2022: Initial development<br>
-  September 20, 2025: Modified for audience of intermediate level of quantum computing proficiency.<br>
-  September 27, 2025: Adopted for session "Building QML Models with Variational Quantum Algorithms", part of [QSilver-31 Workshop](https://qworld.net/qsilver31/), QBangladesh / QWorld.<br>
-  October 10, 2025: Adopted for session "An introduction to Quantum Machine Learning in Qiskit", part of [Qiskit Fall Fest UAM 2025](https://research.ibm.com/events/qiskit-fall-fest-2025), [Adam Mickiewicz University](https://amu.edu.pl/en), Poznań, Poland.
+  > This QML BCD lab explores the process of developing a simple quantum machine learning model in Qiskit.<br>
+  > The lab includes a practical session that covers the QML concepts, models, and techniques.<br>
+  > The initial lab tasks will be demonstrated by the presenter.<br>
+  > The following tasks are designed to be completed by the participants and discussed on Discord.
+- **Creation Date:**
+  - October 1, 2022: Initial development<br>
+  - September 20, 2025: Modified for audience of intermediate level of quantum computing proficiency.<br>
+  - October 10, 2025: Adopted for session "An introduction to Quantum Machine Learning in Qiskit",<br>
+    part of [Qiskit Fall Fest UAM 2025](https://research.ibm.com/events/qiskit-fall-fest-2025), [Adam Mickiewicz University](https://amu.edu.pl/en),
+    Poznań, Poland.<br><br>
+    
 - **How to cite this work:**<br>
   If you are a researcher and wanted to use these resources, please cite my work as follows.<br>
-
-  _**The presentation (slides and video when available):**_<br>
-  Jacob L. Cybulski, "Quantum Machine Learning B-C-D in Qiskit",<br>
-  Presented to QSilver-31 Workshop by QBangladesh / QWorld, September 20-21 and 27-28, 2025,<br>
-  Presented to Qiskit Fall Fest UAM 2025, Adam Mickiewicz University in Poznań, Poland, 10 Oct 2025,<br>
-  [https://jacobcybulski.com/](https://jacobcybulski.com/seminars/slides/2025_QML_BDC_v2_5_QBangladesh.pdf),
-  Accessed Day-Month-Year.
-
-  _**This GitHub:**_<br>
-  Jacob L. Cybulski (ironfrown), "Quantum Machine Learning B-C-D in Qiskit",<br>
-  GitHub, 2025,
-  [https://github.com/ironfrown/qml_bcd_lab/](https://github.com/ironfrown/qml_bcd_lab/),
-  Accessed Day-Month-Year.
+  - _**The presentation:**_<br>
+    Jacob L. Cybulski, "Quantum Machine Learning B-C-D in Qiskit",<br>
+    Presented at Qiskit Fall Fest UAM 2025, Adam Mickiewicz University in Poznań, Poland, 10 Oct 2025,<br>
+    [https://jacobcybulski.com/](https://jacobcybulski.com/seminars/slides/2025_QML_BDC_v2_5_QBangladesh.pdf),
+    Accessed Day-Month-Year.<br><br>
+  - _**This GitHub:**_<br>
+    Jacob L. Cybulski (ironfrown), "Quantum Machine Learning B-C-D in Qiskit",<br>
+    GitHub, 2025, [https://github.com/ironfrown/qml_bcd_lab/](https://github.com/ironfrown/qml_bcd_lab/),
+    Accessed Day-Month-Year.
 
 ## Folders
 This site is structured as follows:
