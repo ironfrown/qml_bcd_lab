@@ -11,9 +11,7 @@
 - **Creation Date:**
   - October 1, 2022: Initial development<br>
   - September 20, 2025: Modified for audience of intermediate level of quantum computing proficiency.<br>
-  - October 10, 2025: Adopted for session "An introduction to Quantum Machine Learning in Qiskit",<br>
-    part of [Qiskit Fall Fest UAM 2025](https://research.ibm.com/events/qiskit-fall-fest-2025), [Adam Mickiewicz University](https://amu.edu.pl/en),
-    Poznań, Poland.<br><br>
+  - October 10, 2025: Adopted for Qiskit Fall Fest 2025.<br><br>
     
 - **How to cite this work:**<br>
   If you are a researcher and wanted to use these resources, please cite my work as follows.<br>
