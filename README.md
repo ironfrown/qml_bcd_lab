@@ -17,11 +17,15 @@
     
 - **How to cite this work:**<br>
   If you are a researcher and wanted to use these resources, please cite my work as follows.<br>
-  - _**The presentation:**_<br>
-    Jacob L. Cybulski, "Quantum Machine Learning B-C-D in Qiskit",<br>
-    Presented at Qiskit Fall Fest UAM 2025, Adam Mickiewicz University in Poznań, Poland, 10 Oct 2025,<br>
+  - _**The presentations:**_<br>
+    - Jacob L. Cybulski, "An introduction to Quantum Machine Learning in Qiskit",<br>
+    Presented at Qiskit Fall Fest 2025, Adam Mickiewicz University in Poznań, Poland, 10 Oct 2025,<br>
     [https://jacobcybulski.com/](https://jacobcybulski.com/seminars/slides/2025_QML_BDC_v2_5_QBangladesh.pdf),
-    Accessed Day-Month-Year.<br><br>
+    Accessed Day-Month-Year.
+    - Jacob Cybulski, "Exploring Quantum Machine Learning (with Qiskit)",<br>
+      Presented at Qiskit Fall Fest 2025, Université Paris-Saclay, Paris, France, 20 Nov 2025,<br>
+      [https://jacobcybulski.com/](https://jacobcybulski.com/seminars/slides/2025_QML_BDC_v2_8_ParisSaclay.pdf),
+      Accessed Day-Month-Year.<br><br>
   - _**This GitHub:**_<br>
     Jacob L. Cybulski (ironfrown), "Quantum Machine Learning B-C-D in Qiskit",<br>
     GitHub, 2025, [https://github.com/ironfrown/qml_bcd_lab/](https://github.com/ironfrown/qml_bcd_lab/),
